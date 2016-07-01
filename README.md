@@ -17,4 +17,4 @@ step3: If you dont have nodejs and npm install, Use below command to install it:
 		npm install -g npm
 
 step4: goto cd */angularjs2_setup
-	   ype: npm start
+	type: npm start
